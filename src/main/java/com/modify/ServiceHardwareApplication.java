@@ -3,6 +3,9 @@ package com.modify;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author modify
+ */
 @SpringBootApplication
 public class ServiceHardwareApplication {
 
