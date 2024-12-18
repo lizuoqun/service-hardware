@@ -1,11 +1,10 @@
 package com.modify.common;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.experimental.Accessors;
 
 /**
  * @author modify
+ * 统一响应包装类
  */
 @Data
 public class R {

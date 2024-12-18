@@ -11,7 +11,7 @@ import java.util.List;
 
 public class OSHITest {
     @Test
-    // 一起处理异常
+    // 用于在方法上自动添加异常处理。它的作用是在方法体中自动捕获并处理异常，将异常转换为非受检异常（Unchecked Exception）并抛出
     @SneakyThrows
     void test1() {
         // 入口从这开始
