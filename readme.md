@@ -13,3 +13,7 @@
 
 - 删掉.idea文件夹
 - 在project structure中选择module，找到paths，然后重新调整out path
+
+
+## GLA
+grafana loki alloy
